@@ -17,6 +17,7 @@
         <kotlin.version>1.4.32</kotlin.version>
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
+        <start-class>fr.trial.bar.BarApplication</start-class>
     </properties>
     <dependencies>
         <dependency>

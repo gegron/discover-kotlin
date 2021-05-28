@@ -37,3 +37,7 @@ out/
 .vscode/
 target/
 data/
+
+### OS generated files ###
+.DS_Store
+.DS_Store?
